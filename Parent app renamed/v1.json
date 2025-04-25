@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "19660520-3945-4bb4-b1c9-5f6801c3b497",
-          "name": "Parent app",
+          "name": "Parent app renamed",
           "slug": "19660520-3945-4bb4-b1c9-5f6801c3b497",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-25T12:14:55.643Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-25T12:14:55.643Z",
+          "updatedAt": "2025-04-25T12:25:40.854Z",
           "editingVersion": {
             "id": "254534ff-70d3-4f34-838a-cfc27e257492",
             "name": "v1",

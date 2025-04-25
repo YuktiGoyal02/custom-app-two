@@ -40,11 +40,11 @@
     "lastCommitUser": "Yukti "
   },
   "19660520-3945-4bb4-b1c9-5f6801c3b497": {
-    "gitAppName": "Parent app",
-    "lastCommitMessage": "child pushed the commit in parent app",
+    "gitAppName": "Parent app renamed",
+    "lastCommitMessage": "App Parent app is renamed to Parent app renamed",
     "gitVersionId": "254534ff-70d3-4f34-838a-cfc27e257492",
-    "lastpushDate": "2025-04-25T12:18:08.930Z",
+    "lastpushDate": "2025-04-25T12:25:42.990Z",
     "gitVersionName": "v1",
-    "lastCommitUser": "build1 "
+    "lastCommitUser": "admin1 "
   }
 }
