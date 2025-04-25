@@ -41,10 +41,10 @@
   },
   "19660520-3945-4bb4-b1c9-5f6801c3b497": {
     "gitAppName": "Parent app",
-    "lastCommitMessage": "App Parent app renamed is renamed to Parent app",
-    "gitVersionId": "254534ff-70d3-4f34-838a-cfc27e257492",
-    "lastpushDate": "2025-04-25T13:09:21.916Z",
+    "lastCommitMessage": "build2 in new imported app 2",
+    "gitVersionId": "917687d0-a734-44c9-9d3e-a5374ad95e90",
+    "lastpushDate": "2025-04-25T13:15:02.663Z",
     "gitVersionName": "v1",
-    "lastCommitUser": "build1 "
+    "lastCommitUser": "build2 "
   }
 }
