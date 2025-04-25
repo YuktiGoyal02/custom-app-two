@@ -41,10 +41,10 @@
   },
   "19660520-3945-4bb4-b1c9-5f6801c3b497": {
     "gitAppName": "Parent app",
-    "lastCommitMessage": "App Parent app created",
+    "lastCommitMessage": "child pushed the commit in parent app",
     "gitVersionId": "254534ff-70d3-4f34-838a-cfc27e257492",
-    "lastpushDate": "2025-04-25T12:15:03.651Z",
+    "lastpushDate": "2025-04-25T12:18:08.930Z",
     "gitVersionName": "v1",
-    "lastCommitUser": "Yukti "
+    "lastCommitUser": "build1 "
   }
 }
